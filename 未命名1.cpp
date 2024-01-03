@@ -9,7 +9,6 @@ int main(void) {
 	
 	printf("second update\n");
 
-	printf("hot-fix update\n");
 	
 	return 0;
 } 

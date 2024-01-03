@@ -9,6 +9,6 @@ int main(void) {
 	
 	printf("second update\n");
 
-	
+	printf("hot update\n");
 	return 0;
 } 

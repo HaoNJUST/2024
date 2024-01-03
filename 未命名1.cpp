@@ -10,5 +10,9 @@ int main(void) {
 	printf("second update\n");
 
 	printf("hot update\n");
+
+
+	printf("2222");
+
 	return 0;
 } 
